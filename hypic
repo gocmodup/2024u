@@ -1,7 +1,7 @@
-{
-  "versionCode": 31001,
-  "versionName": "3.1.0",
-  "Msg": "Phiên bản Mod mới đã được cập nhật!
-   Hãy tải về để có thể sử dụng các tính năng mới bạn nhé.",
-  "downloadLink": "https://gocmod.com/hypic-vip/"
-    }
+TITLE: Thông báo cập nhật bản Mod mới.
+
+VERSIONCODE: 31001
+
+MESSAGES: Ấn tải về để tải phiên bản MOD mới nhé.
+
+URL: https://gocmod.com/hypic-vip/
